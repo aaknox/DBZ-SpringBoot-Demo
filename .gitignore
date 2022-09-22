@@ -11,3 +11,4 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 /.metadata/
 DBZ-API/logs/log.txt
+my-ec2-key.pem
